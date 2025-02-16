@@ -1,0 +1,14 @@
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/bin/Debug/net8.0/SifreGüclülügüKontrol
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/bin/Debug/net8.0/SifreGüclülügüKontrol.deps.json
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/bin/Debug/net8.0/SifreGüclülügüKontrol.runtimeconfig.json
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/bin/Debug/net8.0/SifreGüclülügüKontrol.dll
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/bin/Debug/net8.0/SifreGüclülügüKontrol.pdb
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.AssemblyInfoInputs.cache
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.AssemblyInfo.cs
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.csproj.CoreCompileInputs.cache
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.dll
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/refint/SifreGüclülügüKontrol.dll
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.pdb
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/SifreGüclülügüKontrol.genruntimeconfig.cache
+/Users/gorkemdikbakan/RiderProjects/SifreGüclülügüKontrol/SifreGüclülügüKontrol/obj/Debug/net8.0/ref/SifreGüclülügüKontrol.dll
