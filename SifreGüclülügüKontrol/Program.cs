@@ -1,7 +1,7 @@
 ﻿Console.Write("Şifrenizi girin: ");
 string sifre = Console.ReadLine();
 
-if (sifre.Length < 8)
+if (sifre.Length <= 8)
 {
     Console.WriteLine("Hata: Şifre en az 8 karakter olmalıdır!");
     return;
